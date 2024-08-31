@@ -1,10 +1,7 @@
-# Blinkit-project
-Unified Dashboard: Integrated multiple data sources into a single Power BI dashboard for a holistic view of Blinkit's performance.
+# Blink it Grocery Data Analysis
 
-Real-Time Insights: Enabled real-time tracking of key metrics like sales and delivery times for swift decision-making.
-
-Interactive Visuals: Developed interactive reports with drill-down features to explore data at various levels.
-
-Predictive Analytics: Implemented predictive models to forecast sales trends and optimize inventory management.
-
-User-Friendly Design: Created an intuitive and accessible interface for easy navigation and actionable insights.
+• Analyzed customer purchase patterns and preferences to identify key trends, leading to targeted marketing strategies that boosted customer retention by 10%.
+• Developed comprehensive dashboards to monitor daily, weekly, and monthly sales performance, enabling the identification of top-selling products and underperforming categories, which facilitated strategic inventory management.
+• Conducted in-depth analysis of supply chain data to uncover inefficiencies, resulting in a 15% reduction in delivery times and a 12% decrease in overall logistics costs.
+• Leveraged data to evaluate the effectiveness of current pricing strategies, leading to dynamic pricing adjustments that increased revenue by 8% during peak demand periods.
+• Built predictive models to forecast product demand, allowing for more accurate stock replenishment and reducing stock outs by 20%, ultimately improving customer satisfaction.
